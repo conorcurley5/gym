@@ -1,0 +1,267 @@
+[
+    [
+        {
+            "name": "Barbell Squat",
+            "image": "https://www.jefit.com/images/exercises/50_50/48.jpg",
+            "reps": 6,
+            "sets": 4
+        },
+        {
+            "name": "Hack Squat",
+            "image": "https://www.jefit.com/images/exercises/50_50/508.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Walking Lunges",
+            "image": "https://www.jefit.com/images/exercises/50_50/804.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Leg Extensions",
+            "image": "https://www.jefit.com/images/exercises/50_50/520.jpg",
+            "reps": 12,
+            "sets": 3
+        },
+        {
+            "name": "Lying Leg Curls",
+            "image": "https://www.jefit.com/images/exercises/50_50/640.jpg",
+            "reps": 12,
+            "sets": 3
+        },
+        {
+            "name": "Calf Press On Leg Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/560.jpg",
+            "reps": 20,
+            "sets": 3
+        },
+        {
+            "name": "Cable Crunch",
+            "image": "https://www.jefit.com/images/exercises/50_50/316.jpg",
+            "reps": 12,
+            "sets": 3
+        }
+    ],
+    [
+        {
+            "name": "Barbell Bench Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/8.jpg",
+            "reps": 5,
+            "sets": 4
+        },
+        {
+            "name": "Dumbbell Incline Bench Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/124.jpg",
+            "reps": 8,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Fly",
+            "image": "https://www.jefit.com/images/exercises/50_50/164.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Shoulder Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/192.jpg",
+            "reps": 6,
+            "sets": 4
+        },
+        {
+            "name": "Dumbbell Lateral Raise",
+            "image": "https://www.jefit.com/images/exercises/50_50/128.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dip",
+            "image": "https://www.jefit.com/images/exercises/50_50/96.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Cable Rope Triceps Pushdown",
+            "image": "https://www.jefit.com/images/exercises/50_50/636.jpg",
+            "reps": 10,
+            "sets": 3
+        }
+    ],
+    [
+        {
+            "name": "Barbell Deadlift",
+            "image": "https://www.jefit.com/images/exercises/50_50/372.jpg",
+            "reps": 6,
+            "sets": 4
+        },
+        {
+            "name": "Pull Ups",
+            "image": "https://www.jefit.com/images/exercises/50_50/528.jpg",
+            "reps": 8,
+            "sets": 3
+        },
+        {
+            "name": "Barbell Bent Over Row",
+            "image": "https://www.jefit.com/images/exercises/50_50/804.jpg",
+            "reps": 8,
+            "sets": 3
+        },
+        {
+            "name": "Smith Machine Shrug",
+            "image": "https://www.jefit.com/images/exercises/50_50/200.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Barbell Curl",
+            "image": "https://www.jefit.com/images/exercises/50_50/448.jpg",
+            "reps": 8,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Alternate Bicep Curl",
+            "image": "https://www.jefit.com/images/exercises/50_50/464.jpg",
+            "reps": 10,
+            "sets": 3
+        }
+    ],
+    [
+        {
+            "name": "Barbell Squat",
+            "image": "https://www.jefit.com/images/exercises/50_50/48.jpg",
+            "reps": 6,
+            "sets": 4
+        },
+        {
+            "name": "Leg Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/528.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Walking Lunges",
+            "image": "https://www.jefit.com/images/exercises/50_50/804.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Leg Extensions",
+            "image": "https://www.jefit.com/images/exercises/50_50/520.jpg",
+            "reps": 12,
+            "sets": 3
+        },
+        {
+            "name": "Lying Leg Curls",
+            "image": "https://www.jefit.com/images/exercises/50_50/640.jpg",
+            "reps": 12,
+            "sets": 3
+        },
+        {
+            "name": "Calf Press On Leg Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/560.jpg",
+            "reps": 20,
+            "sets": 3
+        },
+        {
+            "name": "Hanging Leg Raise",
+            "image": "https://www.jefit.com/images/exercises/50_50/244.jpg",
+            "reps": 10,
+            "sets": 3
+        }
+    ],
+    [0],
+    [
+        {
+            "name": "Barbell Bench Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/8.jpg",
+            "reps": 5,
+            "sets": 4
+        },
+        {
+            "name": "Dumbbell Incline Bench Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/124.jpg",
+            "reps": 8,
+            "sets": 3
+        },
+        {
+            "name": "Cable Cross Over",
+            "image": "https://www.jefit.com/images/exercises/50_50/56.jpg",
+            "reps": 12,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Shoulder Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/192.jpg",
+            "reps": 6,
+            "sets": 4
+        },
+        {
+            "name": "Machine Reverse Flyes",
+            "image": "https://www.jefit.com/images/exercises/50_50/3512.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Cable Rope Face Pull",
+            "image": "https://www.jefit.com/images/exercises/50_50/3496.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Barbell Close Grip Bench Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/16.jpg",
+            "reps": 6,
+            "sets": 3
+        },
+        {
+            "name": "Cable Rope Overhead Triceps Extension",
+            "image": "https://www.jefit.com/images/exercises/50_50/620.jpg",
+            "reps": 12,
+            "sets": 3
+        }
+    ],
+    [
+        {
+            "name": "Barbell Deadlift",
+            "image": "https://www.jefit.com/images/exercises/50_50/372.jpg",
+            "reps": 6,
+            "sets": 3
+        },
+        {
+            "name": "T Bar Row",
+            "image": "https://www.jefit.com/images/exercises/50_50/208.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell One Arm Row",
+            "image": "https://www.jefit.com/images/exercises/50_50/360.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Preacher Curl Machine",
+            "image": "https://www.jefit.com/images/exercises/50_50/1084.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Seated Curl",
+            "image": "https://www.jefit.com/images/exercises/50_50/404.jpg",
+            "reps": 12,
+            "sets": 3
+        },
+        {
+            "name": "Calf Press On Leg Press",
+            "image": "https://www.jefit.com/images/exercises/50_50/560.jpg",
+            "reps": 10,
+            "sets": 3
+        },
+        {
+            "name": "Dumbbell Palms Up Wrist Curl Over A Bench",
+            "image": "https://www.jefit.com/images/exercises/50_50/472.jpg",
+            "reps": 10,
+            "sets": 3
+        }
+    ]
+]

@@ -1,0 +1,151 @@
+$background: #594CE0;
+$text: #ffffffCC;
+$lightText: #ffffff99;
+
+$font-stack: 'Poppins', sans-serif;
+
+$shadow: 7px 7px 15px #4c41be, -7px -7px 15px #6657ff;
+$shadow-inset:  inset 7px 7px 15px #4c41be, inset -7px -7px 15px #6657ff;
+
+* {
+    font-family: $font-stack;
+}
+
+body {
+    background: $background;
+    width: calc(100% - 2rem);
+    height: 100vh;
+    margin: 0;
+}
+
+.App {
+    display: flex;
+    flex: 1;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.nav {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+    p {
+        font-size: 28px;
+        font-weight: 600;
+        color: $text;
+    }
+
+    .time {
+        opacity: 0.7;
+    }
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    width: calc(100%);
+    height: calc(100vh - 80px - 2rem);
+    padding: 1rem;
+    overflow-x: visible;
+    overflow-y: scroll;
+}
+
+.workout-box {
+    padding: 1rem;
+    box-shadow: $shadow;
+    margin-bottom: 1.5rem;
+    border-radius: 12px;
+}
+
+.workout-name {
+    color: $text;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+
+    p {
+        font-weight: 500;
+    }
+}
+
+.workout-data {
+    color: $lightText;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    color: $lightText;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.workout-input {
+    background: #ffffff22;
+    border: none;
+    outline: none;
+    padding: 0.5rem;
+    font-weight: 500;
+    border-radius: 12px;
+    color: #ffffffCC;
+    width: 60px;
+    text-align: center;
+}
+
+.workout-input::placeholder {
+    color: #ffffff77;
+    font-weight: 500;
+}
+
+.submit-button {
+    width: 100%;
+    height: 60px;
+    background: $background;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:row;
+    border: none;
+    margin: 2rem 0;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    box-shadow: $shadow;
+    animation: insetFadeOut 0.5s;
+    border-radius: 12px;
+}
+
+.submit-button:hover {
+    box-shadow: $shadow-inset;
+    animation: insetFadeIn 0.5s;
+}
+
+@keyframes insetFadeIn {
+    0% {
+        box-shadow: $shadow;
+    }
+    50% {
+        box-shadow: 0 0 0 0 #ffffff00;
+    }
+    100% {
+        box-shadow: $shadow-inset;
+    }
+}
+
+@keyframes insetFadeOut {
+    0% {
+        box-shadow: $shadow-inset;
+    }
+    50% {
+        box-shadow: 0 0 0 0 #ffffff00;
+    }
+    100% {
+        box-shadow: $shadow;
+    }
+}
